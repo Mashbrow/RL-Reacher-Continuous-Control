@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Video of the environment](arm_agent.gif "A video of the agent in action from the Udacity Nanodegree's repo") 
+
 This project is part of the Udacity Nanodegree on Reinforcement Learning and aims at training a double-jointed arm to reach target locations.
 
 Description of the environment:
